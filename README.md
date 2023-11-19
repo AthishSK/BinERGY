@@ -119,3 +119,43 @@ Make sure you have the following installed:
 git clone https://github.com/AthishSK/BinERGY.git
 cd BinERGY
 ```
+
+## Methodology
+
+![Methology](https://github.com/AthishSK/BinERGY/assets/92356927/ea6997c0-1095-496e-abb9-4163d339785c)
+
+
+
+
+
+## Features
+
+**1. Automated Waste Segregation:** Utilizing object detection models through a webcam in the dustbin to automatically segregate waste into four chambers based on the separation accuracy.
+
+**2. User Registration and QR Code:** A website (built with Streamlit) allows users to register, and receive a QR code. This QR code likely serves as an identifier for the waste disposal system.
+
+**3. Point System:** Users earn points based on the accuracy of waste separation, with a maximum of 3 points per day. This incentivizes proper waste disposal.
+
+**4. Integration of GPS and GSM Modules:** When the dustbin is full, the municipal receives a message with the live location, ensuring timely waste collection.
+
+**5. Machine Learning in Waste Separation:** Using a machine learning model with a camera module to separate waste into categories like plastic, paper, e-waste, and glass.
+
+**6. Conveyor Belt System:** Collected waste is placed on a conveyor belt driven by a servo motor. When plastic is detected, the servomotor directs the waste to the plastic chamber.
+
+**7. Energy Generation:** Burning paper and wood generates electricity, contributing to sustainable energy practices.
+
+**8. Charcoal as Fertilizer:** The byproduct of burned paper and wood (charcoal) is repurposed as fertilizer, demonstrating a circular economy approach.
+
+**9. Plastic Recycling:** The separated plastic is sent for recycling, promoting environmentally friendly waste management practices.
+
+**10. Scalability:** The described system can be implemented on a larger scale for more widespread waste management solutions.
+
+**11. Environmental Impact:** By incorporating waste segregation, recycling, and energy generation, the system contributes to environmental sustainability and waste reduction.
+
+**12. Community Engagement:** The point system encourages community participation and responsible waste disposal habits.
+
+**13. Real-time Monitoring:** The integration of GPS and GSM modules enables real-time monitoring of the waste disposal process, ensuring efficient and timely interventions.
+
+**14. Multi-Stage Waste Management:** The system outlines a comprehensive approach to waste management, covering collection, segregation, energy generation, and recycling.
+
+**15. Innovative Technology Stack:** The use of Streamlit for the website, machine learning models for object detection, and GPS/GSM modules reflects a technologically advanced and integrated solution.
