@@ -122,7 +122,7 @@ cd BinERGY
 
 ## Methodology
 
-![Methology](https://github.com/AthishSK/BinERGY/assets/92356927/ea6997c0-1095-496e-abb9-4163d339785c)
+![mtho](https://github.com/AthishSK/BinERGY/assets/92356927/86948b3b-65b6-4ed7-9d80-998631826429)
 
 
 
