@@ -35,7 +35,7 @@ Binergy, our comprehensive waste management system, integrates cutting-edge tech
 **[Automated Notification System]()**
   - When a smart bin reaches its capacity, an automated message is triggered to notify the local municipality for timely collection.
    - This notification system ensures prompt waste removal and prevents overflow or environmental hazards.
-   - 
+
 **[Centralized Waste Facility]()**
    - In the second phase, a centralized waste facility is established to handle the collected waste.
    - Machine learning algorithms are employed for the categorization of waste into paper, plastic, metal, and e-waste.
