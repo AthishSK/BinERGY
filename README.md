@@ -1,8 +1,8 @@
-# BinERGY
+# Waste Management System
 
 ![Logo](https://github.com/AthishSK/Nandi_Probot/assets/92356927/b406d2d1-36bf-426a-bb9b-5b7d8edcca54)
 
-## What is BinERY ?
+## What is BinERY?
 
 Binergy, an innovative waste management approach, leverages advanced machine learning technology to efficiently collect, separate, treat, and dispose of trash, ushering in a new era of sustainable waste management.
 
